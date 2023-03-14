@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+eqfinances.egg-info/PKG-INFO
+eqfinances.egg-info/SOURCES.txt
+eqfinances.egg-info/dependency_links.txt
+eqfinances.egg-info/requires.txt
+eqfinances.egg-info/top_level.txt
